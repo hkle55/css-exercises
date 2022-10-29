@@ -1,9 +1,19 @@
 .A {
     background-color: lightcoral;
-    font-family: Verdana,DejaVu Sans,sans-serif;
+    font-family: Verdana,DejaVu Sans, sans-serif;
 }
 
 #A {
     color: blue;
     font-size: 36px;
+}
+
+.B {
+    font-size: 24px;
+}
+
+#B {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
