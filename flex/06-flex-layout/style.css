@@ -27,6 +27,24 @@ input {
   margin-bottom: 16px;
 }
 
+ul {
+  display: flex;
+}
+
 li {
   list-style: none;
+}
+
+.header {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.footer .right-links {
+  
 }
