@@ -48,6 +48,7 @@ li {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+  background-color: grey;
 }
 
 .footer ul {
@@ -62,4 +63,8 @@ li {
   justify-content: center;
   flex-flow: column nowrap;
   align-items: center;
+}
+
+.left-links {
+  padding: 0;
 }
