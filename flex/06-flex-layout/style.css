@@ -41,7 +41,7 @@ li {
 
 .header {
   display: flex;
-  align-items: flex-start;
+  
   justify-content: space-between;
   padding: 2px 8px;
 }
@@ -52,14 +52,13 @@ li {
 
 .footer {
   display: flex;
-  align-items: flex-end;
+  
   justify-content: space-between;
   padding: 2px 8px;
   background-color: #eee;
 }
 
 .footer ul {
-  
   gap: 12px;
 }
 
