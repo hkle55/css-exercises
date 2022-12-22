@@ -69,3 +69,8 @@ li {
 .left-links {
   padding: 0;
 }
+
+a {
+  color: #999;
+  text-decoration: none;
+}
