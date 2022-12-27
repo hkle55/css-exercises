@@ -35,6 +35,14 @@ body {
   background: royalblue;
   flex-shrink: 0;
   flex-basis: 300px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+ul {
+  
+
 }
 
 .card {
